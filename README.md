@@ -1,6 +1,6 @@
 # Web3-Blockchain Based Lottery Dapp
 
-## <a href="#" target="_blank">See Output</a>
+## <a href="https://gauravdraw.vercel.app/" target="_blank">Check Website</a>
 
 ## Description
 This is Lottery Dapp using Matic Blockchain and Typescript. This is a simple lottery dapp where users can buy tickets and win the lottery. The lottery is drawn every 30 minutes.
