@@ -23,8 +23,12 @@ If you like this project and you want to give us peace of mind, you can support 
 - <a href='https://metamask.io/'>Setup your Metamask keep your Secret Phrase safe Don't reveal It </a>
 - <a href='https://mumbaifaucet.com/'>Get Free Matic from testnet </a>
 
-#### More Documentation coming soon. . .
-
+#### Steps
+- Step1: install plugin Metamask(metamask.io) or Metamask App from AppStore/PlayStore
+- Step2: Create a wallet and save your rephrase key in safe place don't share it with anyone
+- step3: Select Mumbai Testnet from Polygon Networks
+- step4: Copy wallet address and go to https://mumbaifaucet.com/ and enter your address to receive free matic for testnet
+- step5: Login webapp with metamask
 
 ## LICENCE
 ```
